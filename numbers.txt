@@ -3,6 +3,7 @@ public class MyClass {
 static void numberToWords(char num[])  
 {  
 int len = num.length;  
+// checking if condition
 if (len == 0)   
 { 
 System.out.println("The string is empty.");  
